@@ -1,5 +1,9 @@
-# /Volumes/windows/private/web_navigation  
-## github use markdown to format the content?  
+/Volumes/windows/private/web_navigation     
+
+
+github use markdown to format the content?      
+practice html etc    
+
 
 更新 favorite 主页信息：可以放到一个目录下，做一个本地网站似的    
 	一个简化版，极度精减，只保留最需要的内容，比如经常使用的程序的帮助信息！（与工作相关的信息）    
