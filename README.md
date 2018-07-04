@@ -20,3 +20,5 @@ practice html etc
 		加一个链接到其他信息    
 	另一个详细版，保留所有信息，以备查询详细信息    
 
+show encodings, path in VIM
+
